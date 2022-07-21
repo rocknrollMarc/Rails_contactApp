@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/sporkrb/spork-rails.git
+  remote: https://github.com/sporkrb/spork-rails.git
   revision: 0dd45e59d3237b4c8f9efc215b46d9c07072a95e
   specs:
     spork-rails (4.0.0)
@@ -194,7 +194,7 @@ GEM
       execjs
       rails (>= 3.1)
       railties (>= 3.1)
-    tzinfo (0.3.38)
+    tzinfo (0.3.61)
     uglifier (2.4.0)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
